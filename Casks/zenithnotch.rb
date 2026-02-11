@@ -3,7 +3,7 @@ cask "zenithnotch" do
   sha256 "SHA256_PLACEHOLDER"
 
   url "URL_PLACEHOLDER"
-  name "zenithnotch"
+  name "ZenithNotch"
   desc "ZenithNotch application"
   homepage "https://github.com/iDams/ZenithNotch"
 
