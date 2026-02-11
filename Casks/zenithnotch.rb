@@ -1,6 +1,7 @@
 cask "zenithnotch" do
   version "0.1.42"
-  sha256 "b671fa3d1ec35f5a3cab3b1ee1f55019d3ce51aea65106fbf9f02fe1ea5b6ea7" 
+  sha256 "de6f909ec7b9af3f4a00b12ace940d3ae424edc2b112828d5b
+    cca911c4d00d4d" 
 
   url "https://github.com/iDams/homebrew-zenithnotch/releases/download/v#{version}/ZenithNotch-v0.1-build42.dmg"
   name "ZenithNotch"
